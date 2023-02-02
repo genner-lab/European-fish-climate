@@ -5,11 +5,13 @@ Climatic drivers of European fish community structure
 Data underpinning the paper "Sea temperature is the primary driver of recent and predicted fish community structure across Northeast Atlantic shelf seas"	by Louise A. Rutterford, Stephen D. Simpson, Bjarte Bogstad, Jennifer A. Devine, Martin J. Genner
 
 assets
-	
+
+
 FILE: cont_shelf_sp_dat.csv 
 
 Mean CPUE for 5 year periods for separate surveys at a 1 degree longitude x 1 degree latitude scale. Source data are	detailed in Supplementary Table 1 of the paper
-	
+
+
 FILE: survey_mon_group.csv	
 
 Survey names (Supplementary Table 1 of the paper) followed by the months included in each separated survey for analysis, first letter of each month where A = April, Au = August.
@@ -24,3 +26,12 @@ mean_demidec_sp_survey_4thrt = 4th root of the mean catch per unit effort (CPUE)
 mean_demidec_sp_survey_CPHE_pure = Mean CPUE of species in the survey in the 1 degree latitude x 1 degree longitude cell, calculated from the recorded CPUE per haul.
 
 n_haul_demidec = Number of hauls in the 1 degree latitude x 1 degree longitude cell for the survey.
+
+
+FILE: Species_by_habitat.csv Habitat characteristics of species. Data source described in file.
+
+
+FILE: Species_commercial_landings_categories.csv Summed catch data to categorise commercial importance of species. Data source described in file.
+
+
+FILE: Species_mean_length_at_maturity.csv  Estimated length of maturity for each of the species. Data source described in file.
