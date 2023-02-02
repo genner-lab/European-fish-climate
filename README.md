@@ -1,11 +1,12 @@
 # European-fish-climate
 
-Climatic drivers of European fish community structure
+
+**Climatic drivers of European fish community structure**
 
 Data underpinning the paper "Sea temperature is the primary driver of recent and predicted fish community structure across Northeast Atlantic shelf seas"	by Louise A. Rutterford, Stephen D. Simpson, Bjarte Bogstad, Jennifer A. Devine, Martin J. Genner
 
-assets
 
+**assets**
 
 FILE: cont_shelf_sp_dat.csv 
 
