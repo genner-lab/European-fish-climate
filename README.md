@@ -15,7 +15,7 @@ Mean CPUE for 5 year periods for separate surveys at a 1 degree longitude x 1 de
 
 FILE: survey_mon_group.csv	
 
-Survey names (Supplementary Table 1 of the paper) followed by the months included in each separated survey for analysis, first letter of each month where A = April, Au = August.
+survey_mon_group = Survey names (Supplementary Table 1 of the paper) followed by the months included in each separated survey for analysis, first letter of each month where A = April, Au = August.
 
 demidec	= Half decade over which mean data was calculated, denoted with a sequential letter for each 5 year window, followed by the years included, separated by '_'. From 83–99 are from 20th century (1900's). From 00–18 are from 21st century (2000's)
 
