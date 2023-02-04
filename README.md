@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/596773367.svg)](https://zenodo.org/badge/latestdoi/596773367)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7605008.svg)](https://doi.org/10.5281/zenodo.7605008)
 
 # European-fish-climate
 
